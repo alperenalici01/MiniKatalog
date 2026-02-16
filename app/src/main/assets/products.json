@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Kablosuz Kulaklık",
+    "price": 299.99,
+    "currency": "TRY",
+    "description": "Yüksek ses kalitesi, 20 saat pil ömrü, aktif gürültü engelleme.",
+    "imageResName": "img_headphone",
+    "category": "Elektronik"
+  },
+  {
+    "id": "2",
+    "name": "Akıllı Saat",
+    "price": 1499.00,
+    "currency": "TRY",
+    "description": "Kalp atışı, adım sayacı, uyku takibi ve bildirimler.",
+    "imageResName": "img_watch",
+    "category": "Aksesuar"
+  },
+  {
+    "id": "3",
+    "name": "Mekanik Klavye",
+    "price": 899.50,
+    "currency": "TRY",
+    "description": "RGB aydınlatma, Cherry MX anahtarlar, alüminyum gövde.",
+    "imageResName": "img_keyboard",
+    "category": "Bilgisayar"
+  },
+  {
+    "id": "4",
+    "name": "Taşınabilir Şarj",
+    "price": 249.00,
+    "currency": "TRY",
+    "description": "20000 mAh, çift USB çıkışı, hızlı şarj desteği.",
+    "imageResName": "img_powerbank",
+    "category": "Elektronik"
+  },
+  {
+    "id": "5",
+    "name": "Oyuncu Mouse",
+    "price": 450.00,
+    "currency": "TRY",
+    "description": "16000 DPI, ergonomik tasarım, programlanabilir tuşlar.",
+    "imageResName": "img_mouse",
+    "category": "Bilgisayar"
+  },
+  {
+    "id": "6",
+    "name": "Laptop Soğutucu",
+    "price": 320.00,
+    "currency": "TRY",
+    "description": "Çift fanlı, sessiz çalışma, ayarlanabilir yükseklik.",
+    "imageResName": "img_cooler",
+    "category": "Bilgisayar"
+  },
+  {
+    "id": "7",
+    "name": "Bluetooth Hoparlör",
+    "price": 550.00,
+    "currency": "TRY",
+    "description": "Suya dayanıklı, 12 saat çalma süresi, yüksek bas kalitesi.",
+    "imageResName": "img_speaker",
+    "category": "Elektronik"
+  },
+  {
+    "id": "8",
+    "name": "USB Hub",
+    "price": 150.00,
+    "currency": "TRY",
+    "description": "4 portlu, USB 3.0 destekli, kompakt tasarım.",
+    "imageResName": "img_usbhub",
+    "category": "Aksesuar"
+  }
+]

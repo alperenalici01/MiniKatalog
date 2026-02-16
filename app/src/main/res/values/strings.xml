@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mini Katalog</string>
+    <string name="home_subtitle">Ürünlerimizi keşfedin</string>
+    <string name="home_btn_catalog">Kataloğu Görüntüle</string>
+    <string name="product_list_title">Ürünler</string>
+    <string name="back">Geri</string>
+    <string name="product_detail_title">Ürün Detayı</string>
+    <string name="product_not_found">Ürün bulunamadı.</string>
+    <string name="category">Kategori: %s</string>
+    <string name="add_to_cart">Sepete Ekle</string>
+    <string name="in_cart">Sepette</string>
+    <string name="remove_from_cart">Sepetten Çıkar</string>
+    <string name="like">Beğen</string>
+    <string name="unlike">Beğeniyi kaldır</string>
+    <string name="cart_count">Sepet (%d)</string>
+</resources>
